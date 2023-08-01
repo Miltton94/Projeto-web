@@ -22,7 +22,10 @@ const Hero = () => {
           de tráfego jr e Assistente de Mídias Sociais.
         </p>
 
-        <a href="https://api.whatsapp.com/send?phone=5543996379257">
+        <a
+          href="https://api.whatsapp.com/send?phone=5543996379257"
+          className="w-full"
+        >
           <Button size={'lg'} className="mt-6 w-full text-lg font-semibold">
             Entre em contato
           </Button>
